@@ -1,0 +1,7 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/rarmst/Documents/UMBC/CMSC 341/Proj4'
+g++ -Wall -c -g hash.cpp
+g++ -Wall -c -g file.cpp
+g++ -Wall -g mytest.cpp file.o hash.o -o mytest
+make: Leaving directory `/Users/rarmst/Documents/UMBC/CMSC 341/Proj4'
+ 

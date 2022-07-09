@@ -1,0 +1,14 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "iosfwd": "cpp",
+        "stdexcept": "cpp"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/rarmst/Documents/UMBC/CMSC 341/Proj3",
+            "binaryPath": "/Users/rarmst/Documents/UMBC/CMSC 341/Proj3/mytest",
+            "binaryArgs": []
+        }
+    ]
+}

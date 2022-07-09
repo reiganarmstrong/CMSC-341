@@ -1,0 +1,6 @@
+make mytest --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/rarmst/Documents/UMBC/CMSC 341/Proj3'
+g++ -Wall -c -g mqueue.cpp
+g++ -Wall -g mytest.cpp mqueue.o -o mytest
+make: Leaving directory `/Users/rarmst/Documents/UMBC/CMSC 341/Proj3'
+ 

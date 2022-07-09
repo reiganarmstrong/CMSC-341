@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/rarmst/Documents/UMBC/CMSC 341'
+make: Leaving directory `/Users/rarmst/Documents/UMBC/CMSC 341'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 

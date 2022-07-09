@@ -1,0 +1,18 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/rarmst/Documents/UMBC/CMSC 341/Proj2",
+            "binaryPath": "/Users/rarmst/Documents/UMBC/CMSC 341/Proj2/driver",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/Users/rarmst/Documents/UMBC/CMSC 341/Proj2",
+            "binaryPath": "/Users/rarmst/Documents/UMBC/CMSC 341/Proj2/mytest",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "ostream": "cpp"
+    }
+}

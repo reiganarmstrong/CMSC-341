@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "SSH FS - umbc",
+			"uri": "ssh://umbc/afs/umbc.edu/users/r/e/reagana1/home"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stack": "cpp",
+			"chrono": "cpp",
+			"cstring": "cpp",
+			"ostream": "cpp",
+			"atomic": "cpp",
+			"bitset": "cpp",
+			"__node_handle": "cpp",
+			"__split_buffer": "cpp",
+			"array": "cpp",
+			"deque": "cpp",
+			"filesystem": "cpp",
+			"iterator": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"functional": "cpp",
+			"__hash_table": "cpp",
+			"initializer_list": "cpp",
+			"utility": "cpp",
+			"iostream": "cpp"
+		},
+		"makefile.launchConfigurations": [
+			{
+				"cwd": "/Users/rarmst/Documents/UMBC/CMSC 341/Proj 1",
+				"binaryPath": "/Users/rarmst/Documents/UMBC/CMSC 341/Proj 1/mytest",
+				"binaryArgs": []
+			}
+		]
+	}
+}
